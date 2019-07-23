@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e2fd4ab-e0e2-4ab5-bf1d-676c899cfbe8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ememo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/C/ememo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/C/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/C/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/C/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/C/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/C/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/zilBaseProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/System/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/blueprint/route/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/blueprint/route/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/blueprint/route/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/blueprint/route/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/core/applicationmanager.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/core/applicationmanager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/core/facades/decorators/route.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/core/facades/decorators/route.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/core/interfaces/guardinterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/core/interfaces/guardinterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/core/scrapper/info.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/core/scrapper/info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/core/server/request.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/core/server/request.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/core/server/response.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/core/server/response.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/core/server/router.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/core/server/router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/core/tracer/errortracer.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/core/tracer/errortracer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/core/writer/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/core/writer/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/core/writer/migration.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/core/writer/migration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/core/writer/model.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/core/writer/model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/core/writer/route.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/core/writer/route.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/core/writer/service.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/core/writer/service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/core/writer/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/core/writer/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/data/tree/.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/data/tree/.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/factory/buildQuery.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/factory/buildQuery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/factory/fileuploader.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/factory/fileuploader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/factory/logger.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/factory/logger.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/factory/mailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/factory/mailer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/factory/model.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/factory/model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/factory/redirect.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/factory/redirect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/factory/schema.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/factory/schema.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/factory/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/factory/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/security/encryption.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/security/encryption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/System/zil/security/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/System/zil/security/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/memoboard/asset/template/AuthorizedUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/memoboard/asset/template/AuthorizedUser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/memoboard/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/memoboard/config/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/memoboard/controller/Dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/memoboard/controller/Dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/memoboard/route/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/memoboard/route/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/memoboard/route/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/memoboard/route/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/memoboard/service/Guard.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/memoboard/service/Guard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/memoboard/session/sess_4pvohk7nfjet57slc0umucn99n" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/memoboard/session/sess_bnlg29emtqm94cu30pcs8vmlit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/memoboard/session/sess_s7o4hsg9vc229hsph8stptc4n4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/memoboard/view/Dashboard/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/memoboard/view/Dashboard/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/memoboard/route/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#38#69#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/System/zil/core/server/response.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="75" column="48" lean-forward="true" selection-start-line="75" selection-start-column="48" selection-end-line="75" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/memoboard/service/Guard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#44#93#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/memoboard/view/Dashboard/Index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/memoboard/log/event/July-23-2019.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state relative-caret-position="84">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/memoboard/asset/template/AuthorizedUser.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/System/zil/factory/view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8169">
+              <caret line="398" column="7" selection-start-line="398" selection-start-column="7" selection-end-line="398" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/memoboard/route/api.php" />
+        <option value="$PROJECT_DIR$/System/zil/data/tree/.app.json" />
+        <option value="$PROJECT_DIR$/System/zil/factory/view.php" />
+        <option value="$PROJECT_DIR$/src/memoboard/view/Dashboard/Index.php" />
+        <option value="$PROJECT_DIR$/src/memoboard/controller/Dashboard.php" />
+        <option value="$PROJECT_DIR$/src/memoboard/config/config.php" />
+        <option value="$PROJECT_DIR$/src/memoboard/asset/template/AuthorizedUser.php" />
+        <option value="$PROJECT_DIR$/src/memoboard/route/web.php" />
+        <option value="$PROJECT_DIR$/System/zil/main.php" />
+        <option value="$PROJECT_DIR$/System/zil/core/server/response.php" />
+        <option value="$PROJECT_DIR$/src/memoboard/service/Guard.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1587" />
+    <option name="y" value="-10" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Changed Files'; set:Changed Files; ALL; class com.intellij.packageDependencies.ChangeListScope">
+          <expand>
+            <path>
+              <item name="ememo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\xampp\htdocs\ememo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="ememo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\xampp\htdocs\ememo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="ememo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\xampp\htdocs\ememo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ememo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ememo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ememo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ememo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ememo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ememo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="memoboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ememo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ememo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="memoboard" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e2fd4ab-e0e2-4ab5-bf1d-676c899cfbe8" name="Default Changelist" comment="" />
+      <created>1563889239878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563889239878</updated>
+      <workItem from="1563889243754" duration="3967000" />
+      <workItem from="1563893231539" duration="1539000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5506000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/php.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/memoboard/route/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="e#38#69#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/System/zil/data/tree/.app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/memoboard/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/memoboard/controller/Dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="154" column="8" selection-start-line="154" selection-start-column="8" selection-end-line="154" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/System/zil/core/interfaces/guardinterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/memoboard/route/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#38#69#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/memoboard/view/Dashboard/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/memoboard/log/event/July-23-2019.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/memoboard/asset/template/AuthorizedUser.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/System/zil/factory/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8169">
+          <caret line="398" column="7" selection-start-line="398" selection-start-column="7" selection-end-line="398" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/System/zil/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/System/zil/core/server/response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="75" column="48" lean-forward="true" selection-start-line="75" selection-start-column="48" selection-end-line="75" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/memoboard/service/Guard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#44#93#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+{
+    "currentApp": "memoboard",
+    "apps": {
+        "memoboard": {
+            "root": true,
+            "name": "memoboard",
+            "trial": 0,
+            "prod": false,
+            "exe_migration": []
+        }
+    }
+}
